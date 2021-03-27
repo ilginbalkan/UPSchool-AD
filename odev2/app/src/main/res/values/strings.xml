@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">odev2</string>
+    <string name="number2"></string>
+    <string name="number1"></string>
+    <string name="roll">Salla</string>
+    <string name="clean">Temizle</string>
+    <string name="zarimage1">zarImage1</string>
+    <string name="zarimage2">zarImage2</string>
+</resources>
