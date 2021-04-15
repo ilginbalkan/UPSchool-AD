@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/main">
+
+    <fragment
+        android:id="@+id/main"
+        android:name="com.example.odev5.main"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/summation"
+        android:name="com.example.odev5.summation"
+        android:label="fragment_summation"
+        tools:layout="@layout/fragment_summation" >
+        <action
+            android:id="@+id/action_sum"
+            app:destination="@id/sumResult" />
+    </fragment>
+    <fragment
+        android:id="@+id/multiplication"
+        android:name="com.example.odev5.multiplication"
+        android:label="fragment_multiplication"
+        tools:layout="@layout/fragment_multiplication" >
+        <action
+            android:id="@+id/action_mul"
+            app:destination="@id/mulResult" />
+    </fragment>
+    <fragment
+        android:id="@+id/sumResult"
+        android:name="com.example.odev5.sumResult"
+        android:label="fragment_sum_result"
+        tools:layout="@layout/fragment_sum_result" >
+        <argument
+            android:name="resultOfSum"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/mulResult"
+        android:name="com.example.odev5.mulResult"
+        android:label="fragment_mul_result"
+        tools:layout="@layout/fragment_mul_result" >
+        <argument
+            android:name="resultOfMul"
+            app:argType="integer" />
+    </fragment>
+</navigation>
