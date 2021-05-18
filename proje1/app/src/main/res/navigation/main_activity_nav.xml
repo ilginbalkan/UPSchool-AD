@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_nav"
+    app:startDestination="@id/productsMainFragment">
+    <fragment
+        android:id="@+id/productsMainFragment"
+        android:name="com.example.proje1.ProductsMainFragment"
+        android:label="ProductsMainFragment"
+        tools:layout="@layout/fragment_products_main">
+        <action
+            android:id="@+id/action_Main_to_Detail"
+            app:destination="@id/productsDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/productsDetailFragment"
+        android:name="com.example.proje1.ProductsDetailFragment"
+        android:label="ProductsDetailFragment"
+        tools:layout="@layout/fragment_products_detail">
+        <argument
+            android:name="productObject"
+            app:argType="com.example.proje1.Products" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.proje1.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile"/>
+</navigation>
