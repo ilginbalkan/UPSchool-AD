@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_yemek_menu.xml",
+        "source": "/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/res/layout/fragment_yemek_menu.xml"
+    },
+    {
+        "merged": "/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_yemek_detay.xml",
+        "source": "/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/res/layout/fragment_yemek_detay.xml"
+    },
+    {
+        "merged": "/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/yemek_tasarim.xml",
+        "source": "/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/res/layout/yemek_tasarim.xml"
+    }
+]

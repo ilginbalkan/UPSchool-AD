@@ -1,0 +1,285 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6b5935856d0c5aa16596bd9cd0b78383/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/98fbe4b29f04de14c0ac96209e932c11/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/1617923488c36457deda83a4c3b1b150/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/e9ce15cf8dc6d3f936f25d972f0bd571/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b1cddfd8be0d5a5b2f1e8c3e7a16ca50/jetified-activity-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9299c22df237c818fb407f9e2a0fcdb3/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/27b1a4084110f1ad41cb04266640168f/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f8997712b4d154a3f7013842c17dbe24/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c4510c589a3b6b455a8876d65e91d3a4/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/371d7222a737b439c6ac504ef31b4936/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.6.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9ae77bf8df2972422ba622b5f06c5664/jetified-lottie-3.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/993ada3800c4132b2f2bec2124259949/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/66cbc22151c3662c02c4abad679193a0/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/d5e5b995853df9e3b0d1abde469bc084/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/2ebd6092022d7773f978de2669c4d749/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/607c3024a4a518600029405bb42bec02/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/0d2353071cb368887f97de7a8d155251/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/693e0e05356e3feabde45e96da4a7274/jetified-activity-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bbf4878879392771fd012fc1a72ad860/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/a9f55779c108ee5eddcaf44a8396d1e0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/cf8719b1b5dba8af3742b9a71cc50027/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/48964497489099f4a7813fc4c19a5e01/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/676c28e8e4dee1cb8dde3fb4b416eac4/lifecycle-livedata-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/694d0be3fb304a602e963f34c6dab06a/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/ec1923ab316c18c57f1ff20844bd1fa1/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c180c8861ac2568bd3842aa72a8d759a/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/2017aa7308790de222499aafe519048c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/16a5a28bbde50a5a8011c3cdabbd45dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/220c57cc545be26c24641885e42cee89/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b33fb27d06b4395905a1e3a99ba60364/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/5b6dafbdd7af12b30e5957b4cb55e34b/lifecycle-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c67a6942db0ad05e3452b855fcce5100/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/1c63501c50c1b1ae5051dc4c6fa200a6/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/795748223de1c9ed5d3eb4dba9fd32b6/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/a31c29a3471d6c5319ef70007865485e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b3f7371cde680362c540ce073b89b922/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/e2e0f1f666c21bac62fa414c412f1b23/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/03d629bcff4af0bfc7465d67becf555a/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/139dd713697991e78371aa7203510e73/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.6.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9ae77bf8df2972422ba622b5f06c5664/jetified-lottie-3.6.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.6.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9ae77bf8df2972422ba622b5f06c5664/jetified-lottie-3.6.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/66cbc22151c3662c02c4abad679193a0/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/66cbc22151c3662c02c4abad679193a0/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:11:9-61
+	android:icon
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:9:9-50
+	android:allowBackup
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:13:9-46
+	android:usesCleartextTraffic
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.example.yemekler.MenuActivity
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:15:19-47
+activity#com.example.yemekler.MainActivity
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:17:9-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6b5935856d0c5aa16596bd9cd0b78383/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6b5935856d0c5aa16596bd9cd0b78383/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/98fbe4b29f04de14c0ac96209e932c11/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/98fbe4b29f04de14c0ac96209e932c11/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/1617923488c36457deda83a4c3b1b150/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/1617923488c36457deda83a4c3b1b150/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/e9ce15cf8dc6d3f936f25d972f0bd571/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/e9ce15cf8dc6d3f936f25d972f0bd571/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b1cddfd8be0d5a5b2f1e8c3e7a16ca50/jetified-activity-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b1cddfd8be0d5a5b2f1e8c3e7a16ca50/jetified-activity-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9299c22df237c818fb407f9e2a0fcdb3/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9299c22df237c818fb407f9e2a0fcdb3/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/27b1a4084110f1ad41cb04266640168f/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/27b1a4084110f1ad41cb04266640168f/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f8997712b4d154a3f7013842c17dbe24/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f8997712b4d154a3f7013842c17dbe24/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c4510c589a3b6b455a8876d65e91d3a4/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c4510c589a3b6b455a8876d65e91d3a4/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/371d7222a737b439c6ac504ef31b4936/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/371d7222a737b439c6ac504ef31b4936/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.6.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9ae77bf8df2972422ba622b5f06c5664/jetified-lottie-3.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.6.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9ae77bf8df2972422ba622b5f06c5664/jetified-lottie-3.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/993ada3800c4132b2f2bec2124259949/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/993ada3800c4132b2f2bec2124259949/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/66cbc22151c3662c02c4abad679193a0/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/66cbc22151c3662c02c4abad679193a0/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/d5e5b995853df9e3b0d1abde469bc084/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/d5e5b995853df9e3b0d1abde469bc084/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/2ebd6092022d7773f978de2669c4d749/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/2ebd6092022d7773f978de2669c4d749/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/607c3024a4a518600029405bb42bec02/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/607c3024a4a518600029405bb42bec02/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/0d2353071cb368887f97de7a8d155251/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/0d2353071cb368887f97de7a8d155251/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/693e0e05356e3feabde45e96da4a7274/jetified-activity-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/693e0e05356e3feabde45e96da4a7274/jetified-activity-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bbf4878879392771fd012fc1a72ad860/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bbf4878879392771fd012fc1a72ad860/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/a9f55779c108ee5eddcaf44a8396d1e0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/a9f55779c108ee5eddcaf44a8396d1e0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/cf8719b1b5dba8af3742b9a71cc50027/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/cf8719b1b5dba8af3742b9a71cc50027/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/48964497489099f4a7813fc4c19a5e01/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/48964497489099f4a7813fc4c19a5e01/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/676c28e8e4dee1cb8dde3fb4b416eac4/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/676c28e8e4dee1cb8dde3fb4b416eac4/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/694d0be3fb304a602e963f34c6dab06a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/694d0be3fb304a602e963f34c6dab06a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/ec1923ab316c18c57f1ff20844bd1fa1/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/ec1923ab316c18c57f1ff20844bd1fa1/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c180c8861ac2568bd3842aa72a8d759a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c180c8861ac2568bd3842aa72a8d759a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/2017aa7308790de222499aafe519048c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/2017aa7308790de222499aafe519048c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/16a5a28bbde50a5a8011c3cdabbd45dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/16a5a28bbde50a5a8011c3cdabbd45dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/220c57cc545be26c24641885e42cee89/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/220c57cc545be26c24641885e42cee89/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b33fb27d06b4395905a1e3a99ba60364/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b33fb27d06b4395905a1e3a99ba60364/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/5b6dafbdd7af12b30e5957b4cb55e34b/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/5b6dafbdd7af12b30e5957b4cb55e34b/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c67a6942db0ad05e3452b855fcce5100/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c67a6942db0ad05e3452b855fcce5100/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/1c63501c50c1b1ae5051dc4c6fa200a6/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/1c63501c50c1b1ae5051dc4c6fa200a6/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/795748223de1c9ed5d3eb4dba9fd32b6/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/795748223de1c9ed5d3eb4dba9fd32b6/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/a31c29a3471d6c5319ef70007865485e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/a31c29a3471d6c5319ef70007865485e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b3f7371cde680362c540ce073b89b922/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/b3f7371cde680362c540ce073b89b922/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/e2e0f1f666c21bac62fa414c412f1b23/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/e2e0f1f666c21bac62fa414c412f1b23/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/03d629bcff4af0bfc7465d67becf555a/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/03d629bcff4af0bfc7465d67becf555a/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/139dd713697991e78371aa7203510e73/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/139dd713697991e78371aa7203510e73/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64

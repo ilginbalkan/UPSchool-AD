@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.yemekler"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:7:5-23:19
+14        android:allowBackup="true"
+14-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.3.2] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/icon_yemek_siparis"
+17-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:9:9-50
+18        android:label="@string/app_name"
+18-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/icon_yemek_siparis_round"
+19-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:11:9-61
+20        android:supportsRtl="true"
+20-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Yemekler"
+22-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:13:9-46
+23        android:usesCleartextTraffic="true" >
+23-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:14:9-44
+24        <activity android:name="com.example.yemekler.MenuActivity" />
+24-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:15:9-50
+24-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:15:19-47
+25        <activity android:name="com.example.yemekler.MainActivity" >
+25-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:16:9-22:20
+25-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:16:19-47
+26            <intent-filter>
+26-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:17:9-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:18:17-69
+27-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:20:17-77
+29-->/Users/ilginbalkan/Desktop/UPSchool Ödevler/UPSchool-AD/proje2/app/src/main/AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <provider
+33-->[com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+34            android:name="com.squareup.picasso.PicassoProvider"
+34-->[com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+35            android:authorities="com.example.yemekler.com.squareup.picasso"
+35-->[com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+36            android:exported="false" />
+36-->[com.squareup.picasso:picasso:2.71828] /Users/ilginbalkan/.gradle/caches/transforms-2/files-2.1/be85e4fff136e7f3167e62c74dd06975/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+37    </application>
+38
+39</manifest>
